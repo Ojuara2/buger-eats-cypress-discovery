@@ -1,0 +1,52 @@
+{
+    "signup": {
+        "name": "Pablo de Araujo",
+            "cpf": "00000014141",
+            "email": "ojuara@hotmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "25635170",
+                "street": "Rua Professora Hercília Henriques Moret",
+                "number": "110a",
+                "details": "Servidão Mario Barbati 4",
+                "district": "Alto da Serra",
+                "city_state": "Petrópolis/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+    
+    "cpf_inv": {
+        "name": "João Lucas",
+            "cpf": "X00000141AA",
+            "email": "teste@hotmail.com",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "25635170",
+                "street": "Rua Professora Hercília Henriques Moret",
+                "number": "110a",
+                "details": "Servidão Mario Barbati 4",
+                "district": "Alto da Serra",
+                "city_state": "Petrópolis/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Pablo de Araujo",
+            "cpf": "00000014141",
+            "email": "ojuara.com.br",
+            "whatsapp": "11999999999",
+            "address": {
+                "postalcode": "25635170",
+                "street": "Rua Professora Hercília Henriques Moret",
+                "number": "110a",
+                "details": "Servidão Mario Barbati 4",
+                "district": "Alto da Serra",
+                "city_state": "Petrópolis/RJ"
+            },
+            "delivery_method": "Moto",
+            "cnh": "cnh-digital.jpg"
+}
+}
